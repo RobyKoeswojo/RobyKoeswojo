@@ -2,7 +2,7 @@
 
 I’m interested in data science, machine learning and deep learning.
 
-This repository contains all files I used to learn all stuff related to machine learning.
+This repository contains all materials including fun projects related to machine learning.
 
 <!---
 RobyKoeswojo/RobyKoeswojo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
