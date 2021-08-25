@@ -4,7 +4,8 @@ I'm an M.Sc. Mechatronics graduate focusing on machine learning, and deep learni
 This repository contains all notebooks and code for my personal projects and competitions:  
 - Kaggle: https://github.com/RobyKoeswojo/Kaggle
 - Climate Forecast using Convolutional LSTM Network: https://github.com/RobyKoeswojo/Climate-Forecast-using-Convolutional-LSTM-Network
-- Food detection using YOLOv3-Tiny: https://github.com/RobyKoeswojo/Food-Detection-using-YOLOv3-Tiny
+- Food Detection using YOLOv3-Tiny: https://github.com/RobyKoeswojo/Food-Detection-using-YOLOv3-Tiny
+- RCNN Object Detection: https://github.com/RobyKoeswojo/RCNN-Object-Detection
 
 <!---
 RobyKoeswojo/RobyKoeswojo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
