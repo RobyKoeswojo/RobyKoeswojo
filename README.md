@@ -1,6 +1,6 @@
 👋 Hi, I’m @RobyKoeswojo
 
-I'm an M.Sc. Mechatronics graduate focusing on machine learning, and deep learning.  
+I'm a Data Scientist / Machine Learning Engineer who has hands-on experience in Time Series Prediction, Computer Vision and Natural Language Processing.  
 This repository contains all notebooks and code for my personal projects and competitions:  
 - Kaggle: https://github.com/RobyKoeswojo/Kaggle
 - Climate Forecast using Convolutional LSTM Network: https://github.com/RobyKoeswojo/Climate-Forecast-using-Convolutional-LSTM-Network
